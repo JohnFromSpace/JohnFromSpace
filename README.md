@@ -3,4 +3,3 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JohnFromSpace&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://komarev.com/ghpvc/?username=JohnFromSpace)
